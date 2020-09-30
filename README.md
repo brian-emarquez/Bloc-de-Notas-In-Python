@@ -14,7 +14,7 @@
 </p>
 
 ![python](./images/main.gif)
-
+<p>La Aplicación tiene las básicas herramientas de un editor de texto como: abrir, cerra, copiar pegar, etc. A si mismo se puede usar como un básico editor de código, teniendo posibilidad de cambiar el color de la fuente y el color de fondo.</p>
 ![python](./images/image2.png)
 
 ![python](./images/image1.png)
